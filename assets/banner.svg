@@ -1,0 +1,38 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240">
+  <rect width="1000" height="240" rx="16" fill="#0d1117"/>
+  <rect x="1" y="1" width="998" height="238" rx="15"
+        fill="none" stroke="#30363d"/>
+
+  <circle cx="28" cy="27" r="5" fill="#ff6b6b"/>
+  <circle cx="46" cy="27" r="5" fill="#f5c451"/>
+  <circle cx="64" cy="27" r="5" fill="#55c98b"/>
+
+  <text x="35" y="72" fill="#8b949e"
+        font-family="monospace" font-size="15">$ whoami</text>
+
+  <text x="35" y="120" fill="#f0f6fc"
+        font-family="monospace" font-size="34" font-weight="bold">
+    RidaForge
+  </text>
+
+  <text x="35" y="157" fill="#58d6e7"
+        font-family="monospace" font-size="17">
+    <tspan>
+      <animate attributeName="opacity"
+        values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+      Developer | Building &amp; Learning
+    </tspan>
+  </text>
+
+  <rect x="35" y="183" width="930" height="1" fill="#30363d"/>
+  <rect x="35" y="182" width="140" height="3" fill="#58d6e7">
+    <animate attributeName="x"
+      values="35;825;35" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="35" y="213" fill="#8b949e"
+        font-family="monospace" font-size="12">
+    CODE · CREATE · REPEAT
+  </text>
+</svg>
