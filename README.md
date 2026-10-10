@@ -8,6 +8,20 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=55F6FF&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;Welcome+to+RidaForge;Developer+%7C+Creative+Builder;Turning+ideas+into+code+%E2%9C%A8" alt="Typing animation" />
   </a>
 </p>
+<h2 align="center">⚡ GitHub Stats</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RidaForge&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub statistics"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaForge&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most used languages"
+    height="165"
+  />
+</p>
 <p align="center">
   <img
     src="./assets/id-badge.png"
