@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**RidaForge/RidaForge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./assets/banner.svg" alt="RidaForge animated banner" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img
+    src="./assets/id-badge.png"
+    alt="RidaForge holographic developer ID badge"
+    width="300"
+  />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.instagram.com/ridaforge/">Instagram</a> •
+  <a href="https://www.linkedin.com/in/rida-forge">LinkedIn</a>
+</p>
