@@ -93,16 +93,17 @@
 </p>
 
 
-<!-- 📈 Contribution Activity -->
+
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RidaForge&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true"
-    alt="RidaForge GitHub contribution activity graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RidaForge&theme=tokyo-night&hide_border=true"
+    alt="RidaForge GitHub Contribution Activity"
     width="100%"
   />
 </p>
+
 
 <p align="center">
   <i>Every contribution is a step forward. 💻✨</i>
