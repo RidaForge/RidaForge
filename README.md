@@ -93,20 +93,6 @@
 </p>
 
 
-
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github.com/RidaForge/RidaForge/graphs/contributors"
-    alt="RidaForge repository contributors"
-    width="100%"
-  />
-</p>
-
-
-
 <p align="center">
   <i>Every contribution is a step forward. 💻✨</i>
 </p>
