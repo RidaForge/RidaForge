@@ -32,5 +32,6 @@
 
 <p align="center">
   <a href="https://www.instagram.com/ridaforge/">Instagram</a> •
-  <a href="https://www.linkedin.com/in/rida-forge">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/rida-forge">LinkedIn</a> •
+    <a href="https://www.tiktok.com/@ridaforge">Tiktok</a>
 </p>
