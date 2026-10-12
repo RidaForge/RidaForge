@@ -94,15 +94,17 @@
 
 
 
+
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RidaForge&theme=tokyo-night&hide_border=true"
-    alt="RidaForge GitHub Contribution Activity"
+    src="https://github.com/RidaForge/RidaForge/graphs/contributors"
+    alt="RidaForge repository contributors"
     width="100%"
   />
 </p>
+
 
 
 <p align="center">
