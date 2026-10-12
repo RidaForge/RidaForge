@@ -35,3 +35,12 @@
   <a href="https://www.linkedin.com/in/rida-forge">LinkedIn</a> •
     <a href="https://www.tiktok.com/@ridaforge">Tiktok</a>
 </p>
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RidaForge/RidaForge/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RidaForge/RidaForge/output/github-snake.svg" />
+    <img alt="RidaForge contribution snake animation" src="https://raw.githubusercontent.com/RidaForge/RidaForge/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
