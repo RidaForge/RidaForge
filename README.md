@@ -9,6 +9,26 @@
   </a>
 </p>
 
+<!-- ✨ About Me -->
+<h2 align="center">✨ About Me</h2>
+
+<p align="center">
+  Hey there! 👋 I'm <strong>RidaForge</strong>, a developer who loves
+  turning creative ideas into digital experiences.
+</p>
+
+<p align="center">
+  💻 Exploring web development and modern technologies<br/>
+  ⚛️ Building with React, JavaScript and TypeScript<br/>
+  🎨 Interested in UI design and creative interfaces<br/>
+  🌱 Always learning, experimenting and growing<br/>
+  🚀 My goal is to build useful things with clean, creative code
+</p>
+
+<p align="center">
+  <i>“Turning ideas into code, one project at a time.” ✨</i>
+</p>
+
 <!-- 💻 Tech Stack -->
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -53,11 +73,41 @@
   />
 </p>
 
+
+<!-- 🌐 Connect With Me -->
+<h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center">
-  <a href="https://www.instagram.com/ridaforge/">Instagram</a> •
-  <a href="https://www.linkedin.com/in/rida-forge">LinkedIn</a> •
-    <a href="https://www.tiktok.com/@ridaforge">Tiktok</a>
+  <a href="https://www.instagram.com/ridaforge/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/rida-forge">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.tiktok.com/@ridaforge">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="mailto:itsridafqureshi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
+
+
+<!-- 📈 Contribution Activity -->
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RidaForge&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true"
+    alt="RidaForge GitHub contribution activity graph"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <i>Every contribution is a step forward. 💻✨</i>
+</p>
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
